@@ -9,7 +9,7 @@ window.onload = function() {
   return Math.floor(Math.random() * length);
 };
 
-let pronoun = ["the", "Mi our"];
+let pronoun = ["the","Miour"];
 let adj = ["grear", "big"];
 let noun = ["jogger", "racoon"];
 
